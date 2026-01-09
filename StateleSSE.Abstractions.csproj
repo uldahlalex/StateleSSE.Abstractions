@@ -12,7 +12,7 @@
     <Authors>Alex</Authors>
     <Description>Core abstractions for StateleSSE. Defines ISseBackplane interface for implementing custom backplane providers (Redis, in-memory, RabbitMQ, etc.).</Description>
     <PackageTags>sse;server-sent-events;abstractions;interface;stateless</PackageTags>
-    <RepositoryUrl>https://github.com/yourusername/StateleSSE</RepositoryUrl>
+    <RepositoryUrl>https://github.com/uldahlalex/StateleSSE</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <RootNamespace>StateleSSE.Abstractions</RootNamespace>
