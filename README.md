@@ -1,5 +1,13 @@
 # StateleSSE.Abstractions
 
+> **⚠️ DEPRECATED**: This package has been consolidated into `StateleSSE.AspNetCore`.
+>
+> **Migration:** Replace `StateleSSE.Abstractions` with `StateleSSE.AspNetCore` in your project. All types now exist in the `StateleSSE.AspNetCore` namespace.
+>
+> This package is no longer maintained and will not receive updates.
+
+---
+
 Core interface for building SSE backplane implementations.
 
 ## Installation
